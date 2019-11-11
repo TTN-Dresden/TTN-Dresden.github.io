@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2019-11-11 Meetup Mapper
+description: Meetup TTN-Mapper
+---
+
 # TTN - Mapper
 ## [TTGO-T-Beam](https://github.com/LilyGO/TTGO-T-Beam)
 * "Beam" includes GPS
@@ -10,7 +16,6 @@
 ## Software
 * TTN mobil
 * TTN Map App
-  * 
   * 2 Modi
     * Handy als GPS, 1 node at a time, add node config to TTN-Mapper-App
     * Node mit GPS, e.g. [Björns Techblog](https://www.bjoerns-techblog.de/2018/10/ttgo-t-beam-kompakter-knochen-zum-mappen/)
