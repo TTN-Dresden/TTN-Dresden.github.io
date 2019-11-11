@@ -1,0 +1,22 @@
+# TTN - Mapper
+## [TTGO-T-Beam](https://github.com/LilyGO/TTGO-T-Beam)
+* "Beam" includes GPS
+* ca. 16 Dollar
+* ESP32
+* Stromverbrauch hoch: 1,5h at 1600mAh, 3.2 V
+* Projekte
+  * [Björns Techblog](https://www.bjoerns-techblog.de/2018/10/ttgo-t-beam-kompakter-knochen-zum-mappen/)
+
+## Software
+* TTN mobil
+* TTN Map App
+  * 
+  * 2 Modi
+    * Handy als GPS, 1 node at a time, add node config to TTN-Mapper-App
+    * Node mit GPS, e.g. [Björns Techblog](https://www.bjoerns-techblog.de/2018/10/ttgo-t-beam-kompakter-knochen-zum-mappen/)
+
+# Neues 
+* [M5 Stack](https://m5stack.com/), IoT zum zusammenstecken
+
+# Sonstiges
+[Hallard 1-Channel Gateway]https://github.com/hallard/ESP-1ch-Gateway
