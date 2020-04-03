@@ -7,3 +7,6 @@ Blog of AgTech and TTN-Dresden
 # See also 
 - [Meetup AgTech and TTN-Dresden](https://www.meetup.com/de-DE/AgTech-Dresden/)
 - [TTN Community](https://www.thethingsnetwork.org/community/dresden/)
+
+# TTN für Schulen
+- [get started](schule/TTN_Schule.md)
