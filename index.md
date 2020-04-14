@@ -9,4 +9,4 @@ Blog of AgTech and TTN-Dresden
 - [TTN Community](https://www.thethingsnetwork.org/community/dresden/)
 
 # TTN in der Schule
-- Hier finden Sie [Vorlagen für die Antragsunterlagen und Unterstützung](schule/TTN_Schule.md).
+- Hier finden Sie [Vorlagen f&uumlr die Antragsunterlagen und Unterstützung](schule/TTN_Schule.md).
