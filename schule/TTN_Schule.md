@@ -9,9 +9,9 @@ Sie können einerseits eine Funktion zeigen und bieten andererseits viele verän
 
 ## Schnellstart
 
-* [The Things Network (TTN) - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/2020_04_03_lora_fuer_schulen_konzept.pdf)
-* [Gateway - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/2020_04_03_lora_fuer_schulen_konzept.pdf)
-* [Sensoren - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/2020_04_03_lora_fuer_schulen_konzept.pdf)
+* [The Things Network (TTN) - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_TTN.pdf)
+* [Gateway - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_TTN.pdf)
+* [Sensoren - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_Nodes.pdf)
 
 ## Weiterführende Links
 * [LoRaWAN Wikipediaeintrag](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network)
