@@ -10,7 +10,7 @@ Sie können einerseits eine Funktion zeigen und bieten andererseits viele verän
 ## Schnellstart
 
 * [The Things Network (TTN) - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_TTN.pdf)
-* [Gateway - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_TTN.pdf)
+* [Gateway - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_Gateway.pdf)
 * [Sensoren - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_Nodes.pdf)
 
 ## Weiterführende Links
