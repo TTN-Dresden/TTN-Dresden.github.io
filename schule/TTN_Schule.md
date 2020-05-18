@@ -2,8 +2,7 @@
 Ein Konzept für die RL Digitalpakt Sachsen. Für das Verstehen digitaler Vorgänge eignen sich Versuchsaufbauten besonders gut.
 Sie können einerseits eine Funktion zeigen und bieten andererseits viele veränderbare Parameter, deren Wirkungen sich im Ergebnis zeigen. Für digitale Vorgänge bietet sich die LoRaWAN Technolgie in Verbindung mit Sensoren und integrierten Schaltungen an.
 
-<img src="https://raw.githubusercontent.com/TTN-Dresden/
-TTN-Dresden.github.io/master/schule/_assets/TTN_Schulen_Titelbild_klein.jpg" width="800" />
+<img src="https://raw.githubusercontent.com/TTN-Dresden/TTN-Dresden.github.io/master/schule/_assets/TTN_Schulen_Titelbild_klein.jpg" width="800" />
 
 
 ## Antragsunterlagen
