@@ -3,7 +3,7 @@ Ein Konzept für die RL Digitalpakt Sachsen. Für das Verstehen digitaler Vorgä
 Sie können einerseits eine Funktion zeigen und bieten andererseits viele veränderbare Parameter, deren Wirkungen sich im Ergebnis zeigen. Für digitale Vorgänge bietet sich die LoRaWAN Technolgie in Verbindung mit Sensoren und integrierten Schaltungen an.
 
 ![Titelbild](/_assets/TTN_Schulen_Titelbild.png)
-<img src="/_assets/TTN_Schulen_Titelbild.png" width="800" />
+<img src="_assets/TTN_Schulen_Titelbild.png" width="800" />
 
 ## Antragsunterlagen
 
