@@ -14,7 +14,7 @@ Sie können einerseits eine Funktion zeigen und bieten andererseits viele verän
 * [The Things Network (TTN) - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_TTN.pdf)
 * [Gateway - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_Gateway.pdf)
 * [Sensoren - Spickzettel](https://github.com/TTN-Dresden/TTN-Dresden.github.io/blob/master/schule/_materialien/Spickzettel_LoRaWAN_Nodes.pdf)
-
+* [Calliope-LoRaWAN-Lernstrecke](https://www.inf-schule.de/informatiksysteme/calliope/lernstrecke_lora/lernstrecke): es wird benötigt: 1x Calliope, 1x LoRaWAN-Modul STM32WLE5JC, 1x LoRaWAN-Gateway in der Nähe, 1x TTN-Account, Erweiterung für Maker Code / Open Roberta (Link zur Erweiterung: https://github.com/ud-edu/pxt-iot-lora-node-calliope). Info: Die DevEOI für den Join ist für den STM32WLE5JC fest vergeben und kann mittels QR-Code ausgelesen  werden oder beim ersten Verbinden mit dem Gateway am Gateway ausgelesen werden.
 ## Weiterführende Links
 * [LoRaWAN Wikipediaeintrag](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network)
 * [Umwelt-Campus: Beispielworkshops](https://www.umwelt-campus.de/iot-werkstatt/)
